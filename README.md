@@ -2,15 +2,12 @@
 #### CSC360  Assignment2
 ----
       Compile:
-
-         input: make
-
+            input: make
+            
       Run:  
-         input: ./MFS flow.txt
-
-
+            input: ./MFS flow.txt
+            
       Commands:
-
-         Replace flow.txt with any input file of the correct format
-         eg.  test.txt
+            Replace flow.txt with any input file of the correct format
+            eg.  test.txt
 
